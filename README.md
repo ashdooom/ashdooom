@@ -10,7 +10,7 @@
 	Collaborating on projects or website commissions ★彡
 	
 ✰  How to reach me:
-	Via Github or LinkedIn: linkedin.com/coronaashley ★彡
+	Via Github or LinkedIn: linkedin.com/ashdooom ★彡
 
 ✰ Pronouns: 
 	She/They ★彡
