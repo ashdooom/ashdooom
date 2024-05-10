@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there!! ✨ ໒꒰ྀིᵔ ᵕ ᵔ ꒱ྀི১ ✨
 
-<!--
-**ashdooom/ashdooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✰ I’m currently working on:
+    A React.js website for a landscaping company, Pastos, completely responsive using React-Bootstrap, and FontAwesome. Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit a pull request with your improvements or suggestions. ★彡
+	
+✰ I’m looking to collaborate on:
+	Any and all future projects! I am proficient in Javascript, React, React Native and web develeopment. ★彡
+	
+✰ Ask me about:
+	Collaborating on projects or website commissions ★彡
+	
+✰  How to reach me:
+	Via Github or LinkedIn: linkedin.com/coronaashley ★彡
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✰ Pronouns: 
+	She/They ★彡
+	
+✰ Fun fact:
+	I learned to code via Myspace (RIP) as a young child ★彡
 -->
