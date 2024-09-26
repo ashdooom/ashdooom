@@ -1,7 +1,7 @@
 ### Hi there!! ✨ ໒꒰ྀིᵔ ᵕ ᵔ ꒱ྀི১ ✨
 
 ✰ I’m currently working on:
-    A React.js website for a landscaping company, Pastos, completely responsive using React-Bootstrap, and FontAwesome. Contributions to this project are welcome! Feel free to fork the repository, make changes, and submit a pull request with your improvements or suggestions. ★彡
+    my personal website xbrainstewx.com, feel free to leave a comment or reach out to me there. ★彡
 	
 ✰ I’m looking to collaborate on:
 	Any and all future projects! I am proficient in Javascript, React, React Native and web develeopment. ★彡
@@ -10,7 +10,7 @@
 	Collaborating on projects or website commissions ★彡
 	
 ✰  How to reach me:
-	Via Github or LinkedIn: linkedin.com/ashdooom ★彡
+	Via Github or my email ashley@xbrainstewx.com ★彡
 
 ✰ Pronouns: 
 	She/They ★彡
