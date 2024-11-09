@@ -1,4 +1,5 @@
 Hi there!! ✨ ໒꒰ྀིᵔ ᵕ ᵔ ꒱ྀི১ ✨
+
 ✰ I’m currently working on: A social media platform for filmmakers, collaborating with colleagues to create a space for creative connections and content sharing. ★彡
 
 ✰ I’m looking to collaborate on: Exciting new projects! I’m proficient in JavaScript, React, React Native, Next.js, Firebase, SQL, and AWS. I also have strong skills in web and mobile development, including front-end frameworks, version control, and UX/UI design. ★彡
